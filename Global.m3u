@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF: -1 type="playlist", Animes
+http://example.com/playlists/2015.m3u
+
+#EXTINF: -1 type="playlist", Filmes
+http://example.com/playlists/2010-2014.m3u
+
+#EXTINF: -1 type="playlist", Séries
+http://example.com/playlists/a-z.m3u
