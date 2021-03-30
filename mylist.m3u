@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1 type="video" tvg-logo="" group-title="Meus Filmes", Monster Hunter 2021 - [FULL HD]
+#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/2nLg4zN.jpg" group-title="Meus Filmes", Monster Hunter 2021 - [FULL HD]
 https://cdn55.azureedge.net/RCFServer5/ondemand/MNSTRHNTR.mp4
 
 #EXTINF: -1 type="video" tvg-logo="" group-title="Ficção Científica", 007 Contra o Foguete da Morte - 1979 [FULL HD]
