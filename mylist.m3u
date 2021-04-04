@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/8brbpV5.jpg" group-title="Lista do Yuri", Liga da Justiça Sombria: Guerra de Apokolips
+https://delivery.canais.ink/RCFServer5/ondemand/LGDJSTCSMBRAGRADAPKLS.mp4
+
+
+
 #EXTINF: -1 type="video" tvg-logo="" group-title="Ficção Científica", 007 Contra o Foguete da Morte - 1979 [FULL HD]
 https://delivery.canais.ink/RCFServer2/ondemand/0071979CNTROFGUT.mp4
 
@@ -1896,3 +1901,4 @@ https://delivery.canais.ink/RCServer15/ondemand/INVCVLT01EP02.mp4
 
 #EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/pl00lKH.jpg" group-title="Invencível", Episódio 03 - Quem Você Chamou De Feia?
 https://delivery.canais.ink/RCServer15/ondemand/INVCVLT01EP03.mp4
+
