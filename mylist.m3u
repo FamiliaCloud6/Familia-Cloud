@@ -1,14 +1,15 @@
 #EXTM3U
 
-#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/8brbpV5.jpg" group-title="Lista do Yuri", Liga da Justiça Sombria: Guerra de Apokolips
-https://delivery.canais.ink/RCFServer5/ondemand/LGDJSTCSMBRAGRADAPKLS.mp4
-
-
-
-#EXTINF: -1 type="video" tvg-logo="" group#EXTM3U
-
-#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/8brbpV5.jpg" group-title="Lista do Yuri", Liga da Justiça Sombria: Guerra de Apokolips
+#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/8brbpV5.jpg" group-title="Filmes do Yuri", Liga da Justiça Sombria: Guerra de Apokolips
 https://workstation.canais.ink/RCFServer5/ondemand/LGDJSTCSMBRAGRADAPKLS.mp4
+
+
+
+#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/slTEELI.jpg" group-title="Filmes do Kauê", Minha Vida em Marte [HD]
+https://workstation.canais.ink/RCFServer2/ondemand/MNHVDAEMRTE.mp4
+
+#EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/KOcCMbB.jpg" group-title="Filmes do Kauê", Os Homens São de Marte... E É Pra Lá Que Eu Vou
+https://workstation.canais.ink/RCFServer2/ondemand/OSHMNSDMRTEPRLQVOU.mp4
 
 
 
@@ -3805,4 +3806,3 @@ https://delivery.canais.ink/RCServer15/ondemand/INVCVLT01EP02.mp4
 
 #EXTINF: -1 type="video" tvg-logo="https://i.imgur.com/pl00lKH.jpg" group-title="Invencível", Episódio 03 - Quem Você Chamou De Feia?
 https://delivery.canais.ink/RCServer15/ondemand/INVCVLT01EP03.mp4
-
